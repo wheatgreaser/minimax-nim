@@ -18,7 +18,7 @@ def minimax(state, max_turn):
       ]
       return min(scores)
 
-state = 12
+
 
 
 
